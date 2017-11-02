@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["parse","Parse a string into `Instruction`s # Arguments `program_str`: text of program"],["parse_into","Parse a string into `Instruction`s placing them in a buffer"]],"struct":[["ParseError","Structure containing all data about an error occuring during parsing"]],"type":[["ParseResult","Result of a parse"]]});

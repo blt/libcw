@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["parser","Tools for parsing strings into usable redcode instructions"],["redcode","Datastructures for representing redcode instructions"],["simulation","Datastructures and functions for building and simulating a redcode core"]]});

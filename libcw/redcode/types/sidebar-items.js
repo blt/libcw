@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["AddressingMode","Field Addressing mode: controls how the `offset` behaves"],["Modifier","Controls modes for what components of an instruction and OPCODE will operate on"],["OpCode","Operations that a redcode processor can perform"]],"type":[["Address","Address in a core"],["Pid","Process ID"],["Pin","P-space PIN"],["Value","`Field` Value "]]});
